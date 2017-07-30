@@ -1,7 +1,12 @@
 data
+
 models
+
 .ipynb_checkpoints
+
 bottlenecks
-/.vs
+
+/.vs/
 /*.zip
-/data
+
+/data/
